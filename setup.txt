@@ -1,0 +1,10 @@
+# Creating Environment
+
+* Run the followinf command to create new conda environment 
+    conda create -n env_name python=3.8
+
+* Then activate the environment 
+    conda activate env_name
+
+* After activating the environment, install requirements using following command
+    pip install -r requirements.txt

@@ -1,0 +1,6 @@
+train: ../yolo_train/train/images
+val: ../yolo_train/val/images
+# test: ./yolo_train/val/images
+
+nc: 1
+names: ['odometer']

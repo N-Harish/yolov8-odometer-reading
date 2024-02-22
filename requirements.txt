@@ -1,0 +1,14 @@
+matplotlib==3.7.4
+numpy==1.24.4
+opencv_python==4.9.0.80
+pandas==2.0.3
+Pillow==10.2.0
+Requests==2.31.0
+torch==2.2.0
+tqdm==4.66.1
+transformers==4.37.2
+ultralytics==8.1.9
+protobuf==4.25.2
+sentencepiece==0.1.99
+split_folders==0.5.1
+glob2==0.7
